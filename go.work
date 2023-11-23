@@ -1,0 +1,10 @@
+go 1.21.0
+
+use (
+	./binary_search_tree
+	./hash_table
+	./linked_list
+	./max_heap
+	./queue
+	./stack
+)
