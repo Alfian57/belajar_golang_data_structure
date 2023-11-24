@@ -7,4 +7,5 @@ use (
 	./max_heap
 	./queue
 	./stack
+	./trie
 )
